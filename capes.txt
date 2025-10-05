@@ -16,8 +16,8 @@ PwcZS6t8kETyBdrPiR2ple35lpLMfEw6TP/VyHVD4z4=, (0.188, 0.188, 0.188) ; phanie
 wZ2+Phw6EOBLv9bZKdSGV+3lWhNxiT2KHwCluqhLdzo=, (0.376, 0.769, 0.925) ; Silver
 Hr8BfOHHTBRGgSmQoj4qQdlHqaY6d4DHFbF7wCNFI1U=, (0.643, 0.173, 1.0) ; DustyLemny
 cOL0sHXOvRyn7y5S+3VXWmuyZE1KvQXdfBgcHrph2kE=, (0.000, 0.490, 0.830) ; liz
+5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, (sgold) ; Captain Redstone
 
-5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, (); Autogen cape for Captain Redstone (user ID "captainredstone")
 mYnXz8O4TF+orNn8Af9H1x+W9Pc85x61AGTDT3zbqKM=, (); Autogen cape for glebi574
 H2WcTlMReCE69YJ0BVvXnWeSGonjL9NMfoPBQ+LJKH0=, (); Autogen cape for BracketProto
 x4vC3TWo/BgW7mGauoHjIJn2XND5zu7WddrgwqUeI2U=, (); Autogen cape for slammerlc

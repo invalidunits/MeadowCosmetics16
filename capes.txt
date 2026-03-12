@@ -157,7 +157,7 @@ kkXJnGFNjOiVi3jEqoNlLCDKI20PoPQOLbFtw0uyn6U=, ; Autogen cape for krindger
 kkXJnGFNjOiVi3jEqoNlLCDKI20PoPQOLbFtw0uyn6U=, ; Autogen cape for krindger
 
 pxcOsKlBXymq/ANWk6jKVWQela1NtvHyfxPUa25arbY=, ; Autogen cape for yukiwashere
-hBl9yqxYqlTCou+E+ye2DLTFZqbRq6dV+pz4ZhMvh+U=, ; Autogen cape for .momo1251
+hBl9yqxYqlTCou+E+ye2DLTFZqbRq6dV+pz4ZhMvh+U=, (0.043, 0.502, 0.267); Autogen cape for .momo1251
 qZ16axTqCDdKS/0jGn/J+n/EI2Bl4WDC709DP4ZA6aw=, ; Autogen cape for ra1n_enyoyer
 
 Nu7Smp2bkYAwjDRiv1EqcSKFK9sxz0W87oO8EwF+NzE=, ; Autogen cape for AmabiliZ
@@ -182,3 +182,5 @@ Kn6I64nK0TNfdkWPYaxHC/DBQ4/PdW+jT53rO+9uWTc=, ; Autogen cape for krillvern
 3IZz6m4BPFzRPvQu/heL8aDRqQ/OXe8bcyzhTXpZNXM=, ; Autogen cape for malvaviscosupremo
 
 hwrQRvRwIXQJr4cwkXMJlPwGSvXA14J+xkLUH2xTX9U=, (1.0, 1.0, 1.0); Autogen cape for myur
+
+

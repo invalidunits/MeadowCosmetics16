@@ -171,7 +171,7 @@ YmLNXLTek07tUYB7QIhR0+V1yz3H2M5KIjtH4WJGqOc=, ; Autogen cape for blipblop
 7wn4Qj9sT/NnKnnLd2DrCPQPa7Tlm282w66Q6U6SgNU=, ; Autogen cape for o_kikiwi
 y72HlNo3pCRAHhbfvoqeBV9TcgDSJuNbTxIOATDC6/c=, ; Autogen cape for kyooti_q
 
-wwDaLzDrspXXZotzYmxjr1P6Nc7aiozEae7f6Z01foA=, ; Autogen cape for VespersLounge
+wwDaLzDrspXXZotzYmxjr1P6Nc7aiozEae7f6Z01foA=, (0.533, 0.0980, 1); Autogen cape for sLounge
 yRNaCd9rPsj/bhT6W2P/3xP2mPlL6Tzp4RcViyavfJA=, ; Autogen cape for northernlightsplays
 
 XTl6dK3JnEv1haHmRaMgC4tc55wIQJsxbF0CayLNGLQ=, ; Autogen cape for santyxd271

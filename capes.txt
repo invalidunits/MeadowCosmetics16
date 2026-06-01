@@ -183,7 +183,7 @@ Kn6I64nK0TNfdkWPYaxHC/DBQ4/PdW+jT53rO+9uWTc=, ; Autogen cape for krillvern
 
 hwrQRvRwIXQJr4cwkXMJlPwGSvXA14J+xkLUH2xTX9U=, (1.0, 1.0, 1.0); Autogen cape for myur
 
-9jcD1PFgPoYyjhVaPb7GqjnAeREeezurNfRnNhDUY8Y=, ; Autogen cape for the_rivulet
+9jcD1PFgPoYyjhVaPb7GqjnAeREeezurNfRnNhDUY8Y=, (0.569, 0.8, 0.941); Autogen cape for the_rivulet
 SlTfxfTWEDFjpjYtrR6w+/Yx8z3fMwFqimYsTq8Kxz0=, ; Autogen cape for cyangea
 QtqrR4mE9s6xFNNyRla0UpfZ+aHBXqhHui4Ww+B4eVQ=, ; Autogen cape for Unparalleled Innocence
 A5ntFgsqL62SxZ1tE0tdzYHpVSU9liViH/M6XZXBxF8=, ; Autogen cape for thesummoner0
@@ -200,3 +200,13 @@ eHCvrASdJIwWMtk8yg6LeOjpt2rQ/uSNr+FZU7RgBWo=, ; Autogen cape for Mira
 VzIrTqqhg1wikj7lYUs1HRmWG97Cau91IMrv6jJkFjM=, ; Autogen cape for citrusraptor
 wlW3h3jY4lahvP9jHw3CfIB5eegicBr3OVmEu+ZTp2U=, ; Autogen cape for r3nsen
 
+
+CcbivEPd1xGzPEmFDuisp4kGFI2hGzvESgVEGkYcqaw=, ; Autogen cape for lapathewolf
+ZhoErgns9hyPg/QypQLx0tu8UWV81PSE833efMHNfjc=, ; Autogen cape for c1assick
+s9xzCMboUXFqPQmOI3fdno3rfgqIf9VEV2inCMFg3RY=, ; Autogen cape for Qski
+7aJcdqE85Y7Fe1dERUV1ngXPzBoCA0CL3PXEsadLkOE=, ; Autogen cape for foxlean_
+bUoXn3yg3gknZR4ONLl/UzuPAjOWxLk8dqxoOsHffqI=, ; Autogen cape for kamidabru11
+
+/yT7Gex8kH/e4/Sy5qUK40Jf+qctnowjdvoeA9t/ggM=, (1.0, 0.655, 0.753); Autogen cape for shrubfromtomorrow
+jbJ0n8rWck+7BQ1noNACrOa2icxqOsS7Aq4GMmRZlbU=, (0, 1.0, 0); Autogen cape for greatgamedota
+9DYbxR3150hU5Ztcj+HFhyhfVnVxcW8Lyb8qZlW/SM4=, (0.333, 0, 0.667); Autogen cape for Gzethicus

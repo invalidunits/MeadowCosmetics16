@@ -210,3 +210,4 @@ bUoXn3yg3gknZR4ONLl/UzuPAjOWxLk8dqxoOsHffqI=, ; Autogen cape for kamidabru11
 /yT7Gex8kH/e4/Sy5qUK40Jf+qctnowjdvoeA9t/ggM=, (1.0, 0.655, 0.753); Autogen cape for shrubfromtomorrow
 jbJ0n8rWck+7BQ1noNACrOa2icxqOsS7Aq4GMmRZlbU=, (0, 1.0, 0); Autogen cape for greatgamedota
 9DYbxR3150hU5Ztcj+HFhyhfVnVxcW8Lyb8qZlW/SM4=, (0.333, 0, 0.667); Autogen cape for Gzethicus
+vHhxec0BtL0oFrCV4LiMmfqhXYsZ0pFvwUFCXXXf79M=, (0.922, 0.337, 0.204); Autogen cape for tactical__ferret

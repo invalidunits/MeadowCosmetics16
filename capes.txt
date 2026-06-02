@@ -211,6 +211,6 @@ bUoXn3yg3gknZR4ONLl/UzuPAjOWxLk8dqxoOsHffqI=, ; Autogen cape for kamidabru11
 jbJ0n8rWck+7BQ1noNACrOa2icxqOsS7Aq4GMmRZlbU=, (0, 1.0, 0); Autogen cape for greatgamedota
 9DYbxR3150hU5Ztcj+HFhyhfVnVxcW8Lyb8qZlW/SM4=, (0.333, 0, 0.667); Autogen cape for Gzethicus
 vHhxec0BtL0oFrCV4LiMmfqhXYsZ0pFvwUFCXXXf79M=, (0.922, 0.337, 0.204); Autogen cape for tactical__ferret
-7wzILfrwBjQ2UZeVmhpnUy7lFnFUO9TKWxMibbejaKY=, (0.682, 0.949, 0.627); Autogen cape for twizlet0
+7wzILfrwBjQ2UZeVmhpnUy7lFnFUO9TKWxMibbejaKY=, (0.835, 0.961, 0.867); Autogen cape for twizlet0
 s75wHSLlO/dmovoO9SkspALQzQG1IDTsJ0fVIhevJQ8=, (0.600, 0.929, 0.765); Autogen cape for supervillainjoe
 vvxFx+YkvhfIOA6z6F3KpJkaKP8h0+4kSE5eZiEdln8=, (0.627, 0.173, 0.114); Autogen cape for irritatorchallengeri.

@@ -217,3 +217,5 @@ vvxFx+YkvhfIOA6z6F3KpJkaKP8h0+4kSE5eZiEdln8=, (0.627, 0.173, 0.114); Autogen cap
 xLKYOe18rp37W6Y1PRyNXMTj6ypxZwM14DDDupMZsQA=, ; Autogen cape for snapdragon471
 LXe+AlXJF6PxoM6R/KEeTe/oALWbz/BaCP/0kHqF4gY=, ; Autogen cape for kirsuffix5347
 xIcZO9VMdkIQPhDNp1o6z4K2rXSnpHRuzMiMDADNUgI=, ; Autogen cape for finikscorpse
+90sdRyQ8jBdsPoi+MZiEKZ6mEa3Xyq8o2uWzAIwNmu0=, ; Autogen cape for extra_chizzey
+w06Oq7F2fLWtlbpWpb6AaF6Dc5USijoUtxsaHsS8Kh4=, ; Autogen cape for blurlsrry

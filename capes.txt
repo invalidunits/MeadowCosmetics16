@@ -18,6 +18,7 @@ Hr8BfOHHTBRGgSmQoj4qQdlHqaY6d4DHFbF7wCNFI1U=, cape, scarf ; Autogen cape for Dus
 cOL0sHXOvRyn7y5S+3VXWmuyZE1KvQXdfBgcHrph2kE=, cape, scarf ; Autogen cape for liz
 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=, cape, scarf ; Autogen cape for niacdoial
 5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, cape, scarf ; Autogen cape for captainredstone
+5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, cape, scarf ; Autogen cape for EdEnstonne
 
 mYnXz8O4TF+orNn8Af9H1x+W9Pc85x61AGTDT3zbqKM=, cape ; Autogen cape for glebi574
 H2WcTlMReCE69YJ0BVvXnWeSGonjL9NMfoPBQ+LJKH0=, cape ; Autogen cape for BracketProto
@@ -135,7 +136,6 @@ foyNfy64e+BbkhGTzMgNCgYWGeWoA2U2RFAxsbc1fjo=, cape ; Autogen cape for shiwan.
 lzZFvSIcvgTkXtQfa/8z3RDYZ3j9rB9qEc39NsPumSs=, cape ; Autogen cape for angeldergo
 3XsQYZ6lGmBus2XLLHi6Y4QU91oGXZcv/NwVNIz6g2Q=, cape ; Autogen cape for King_Kalor
 LdaVUj9eyLBgQWHD9wiTawE5fq7p34btIGmiIDjyWBM=, cape ; Autogen cape for majedct
-M3smpDDQz/tATCx0pV4fdW1GDsSWgdbCaAxPhT46cH0=, cape ; Autogen cape for EdEnStonne
 f0lg6cCdUMKI+l4/kTglMeyXcIJkQwxoOsW3xgCBFiA=, cape ; Autogen cape for epich307  id: 553303468560089108
 uTFPBAU1HWG/MH2mJGK0Q5Ueft1R9R2dl0sNeUVB0UE=, cape ; Autogen cape for alspritey
 o5ncmPeqs94L4GW6chtlJaXxiA1U/T4iodM2cj59pcw=, cape ; Autogen cape for Mare (mrmarko14)
@@ -210,3 +210,4 @@ lVY8cq/Zpy+9K55G4RG7foGZ5KaiSZnPE2FWCK9SsgM=, cape ; Autogen cape for luna.silly
 JPwTLdswkem7AfvAyKZJEDOjOAckOsD+PSs9pbKgw0k=, cape ; Autogen cape for rainis02028
 O7KJNXTzyJ8xfxs6flZYKaU/9Stuql6BgKvEjiLp7rE=, cape ; Autogen cape for Kisen
 YZ3SpTeoHP+KNyNRC/vioRtVecstVYcyDHsdkRnplH8=, cape ; Autogen cape for fabledmoo
+

@@ -18,7 +18,7 @@ Hr8BfOHHTBRGgSmQoj4qQdlHqaY6d4DHFbF7wCNFI1U=, cape, scarf ; Autogen cape for Dus
 cOL0sHXOvRyn7y5S+3VXWmuyZE1KvQXdfBgcHrph2kE=, cape, scarf ; Autogen cape for liz
 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=, cape, scarf ; Autogen cape for niacdoial
 5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, cape, scarf ; Autogen cape for captainredstone
-5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, cape, scarf ; Autogen cape for EdEnstonne
+M3smpDDQz/tATCx0pV4fdW1GDsSWgdbCaAxPhT46cH0=, cape, scarf ; Autogen cape for EdEnstonne
 
 mYnXz8O4TF+orNn8Af9H1x+W9Pc85x61AGTDT3zbqKM=, cape ; Autogen cape for glebi574
 H2WcTlMReCE69YJ0BVvXnWeSGonjL9NMfoPBQ+LJKH0=, cape ; Autogen cape for BracketProto

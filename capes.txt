@@ -235,7 +235,7 @@ mYnXz8O4TF+orNn8Af9H1x+W9Pc85x61AGTDT3zbqKM=, cape ; Autogen cape for glebi574
 
 wOckd1WcVJYeUcxk970xyWSiBV2ukp9NNmmMiPLNe9A=, cape, scarf ; Autogen cape for spinynx
 B4BKj0gL/kDeyuLqOQZj9DUk9pzRBgOzmcxmX+7r9CA=, cape, scarf ; Autogen cape for Infamousdog55
-Oq1t55jkR/okdZdRBpxl4GaaQGnytWvG4zi1cmr/76o=, scarf ; Autogen cape for gr4vey4rd
+Oq1t55jkR/okdZdRBpxl4GaaQGnytWvG4zi1cmr/76o=, cape, scarf ; Autogen cape for gr4vey4rd
 Wv/m1Rer/uZ37/xNueuUNHJYoWeVGhsSDg0uqEsRuhs=, cape, scarf ; Autogen cape for rivalsuperbird
 ZWZyYwzc1mwRnB/PAmHu4qjqPGrs7Tf8KdmNB7dAh7M=, cape, scarf ; Autogen cape for sacrificeguy
 Xo4qkR6kHUlmr32NmSN6SFQYeeDy9siCmbnr/9X8yRY=, cape, scarf ; Autogen cape for pixelizon

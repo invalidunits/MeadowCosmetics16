@@ -180,7 +180,6 @@ exOeXto9IenTZ94maiTTAGvtLCTwZFZ8SSulSjyJ7vI=, cape ; Autogen cape for sammy_toph
 MAm0Rir9X6WSNJOO0pe5+mrXnFDhZyoDihc9E9TtBcc=, cape ; Autogen cape for The Goobert™️
 vuGaBSWLIZ3cVfzlKaAhMFBWvUZhpficVnQzq0+TZ+Q=, cape ; Autogen cape for iiul
 OIA2wu52Wtq1nYvriQfXJaZGFZoEYTy+WUKY8+ViqAM=, cape ; Autogen cape for atomixspark
-wOckd1WcVJYeUcxk970xyWSiBV2ukp9NNmmMiPLNe9A=, cape ; Autogen cape for spinynx
 I1zfXSvUG7hB1ocTtYfLSCKVYIBAOLoXHhE5XV7EuwQ=, cape ; Autogen cape for N8rtot
 CgTrp2PwysVPq6S9C7A88vzN140YKMgDQ+QKPAS2hu0=, cape ; Autogen cape for nonidiot_vrchat
 y1tcu3v15AXpxO8oqXPa8RygcJT8+KgIKmzckPu+ttE=, cape ; Autogen cape for kirba_7
@@ -217,7 +216,6 @@ Q1FoW/pR7dw8F6jKDCf78NIFSpWheyIqNzlrwRtAp64=, scarf ; Autogen cape for unknownag
 vL5erhC14xQ4PzdLzMBIAYa6eQ7ehOnVXcVkLMXO4r0=, cape, scarf ; Autogen cape for crimsonzn
 8wrGYK9JU0Dd4tiQjW+xvAW+zgriZWJ6kFbb4edMKOQ=, cape ; Autogen cape for kittybit
 VcQaEFLqSkB9xxXMbvPmZyBWAfzVUzraUoRXm+GVnkE=, cape ; Autogen cape for bobo098586
-B4BKj0gL/kDeyuLqOQZj9DUk9pzRBgOzmcxmX+7r9CA=, cape ; Autogen cape for Infamousdog55
 ULKoMtu+FYubJ9U6qLYUJuMYX14wWlENKRsRc2L+jjc=, cape ; Autogen cape for autumnis
 
 6nZHJfWlAb98IGBkbZ3CmKqj6xOJ1GwIjlHQF2T43Fk=, cape ; Autogen cape for castyblank
@@ -234,3 +232,10 @@ x4vC3TWo/BgW7mGauoHjIJn2XND5zu7WddrgwqUeI2U=, cape ; Autogen cape for slammerlc
 H2WcTlMReCE69YJ0BVvXnWeSGonjL9NMfoPBQ+LJKH0=, cape ; Autogen cape for BracketProto
 mYnXz8O4TF+orNn8Af9H1x+W9Pc85x61AGTDT3zbqKM=, cape ; Autogen cape for glebi574
 5eD7MQy+i6B6862JCgkjFXRevE7UFU+kvvBGPXJ4hGQ=, cape ; Autogen cape for Captain Redstone (user ID "captainredstone")
+
+wOckd1WcVJYeUcxk970xyWSiBV2ukp9NNmmMiPLNe9A=, cape, scarf ; Autogen cape for spinynx
+B4BKj0gL/kDeyuLqOQZj9DUk9pzRBgOzmcxmX+7r9CA=, cape, scarf ; Autogen cape for Infamousdog55
+Oq1t55jkR/okdZdRBpxl4GaaQGnytWvG4zi1cmr/76o=, scarf ; Autogen cape for gr4vey4rd
+Wv/m1Rer/uZ37/xNueuUNHJYoWeVGhsSDg0uqEsRuhs=, cape, scarf ; Autogen cape for rivalsuperbird
+ZWZyYwzc1mwRnB/PAmHu4qjqPGrs7Tf8KdmNB7dAh7M=, cape, scarf ; Autogen cape for sacrificeguy
+Xo4qkR6kHUlmr32NmSN6SFQYeeDy9siCmbnr/9X8yRY=, cape, scarf ; Autogen cape for pixelizon

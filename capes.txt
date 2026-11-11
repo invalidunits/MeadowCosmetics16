@@ -250,3 +250,6 @@ i3LOwyDiD3cvuFJtFETixbypU0tPCqj69w4YFw5VAtQ=, scarf ; Autogen cape for something
 xOrOIgMYeQOhs6WF4B4INAW27DNXDdLXeqHF0MAlgEM=, cape, scarf ; Autogen cape for ZentYrul
 z05KXieLIX3+2+E6/Ev5OU7ftWMi9rYrKA2plOkRbEY=, cape, scarf ; Autogen cape for a_random_peep
 F+ErkxFEVeccmaXfer8Wv9x7cpj47Vz1bRJZ/nBMHXk=, cape, scarf ; Autogen cape for riskoflobsters
+
+RQwf2723HC7DoyzRg938K07/F42imd8l3PZYoi3Sik8=, cape, scarf ; Autogen cape for Astralaine
+715B4D7gKg/MPszhh3hrqLvcUyd+7Zcxwezq7iX+ZSk=, cape, scarf ; Autogen cape for DeadCows57

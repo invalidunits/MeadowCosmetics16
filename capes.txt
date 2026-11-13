@@ -219,7 +219,7 @@ ULKoMtu+FYubJ9U6qLYUJuMYX14wWlENKRsRc2L+jjc=, cape ; Autogen cape for autumnis
 6nZHJfWlAb98IGBkbZ3CmKqj6xOJ1GwIjlHQF2T43Fk=, cape ; Autogen cape for castyblank
 TUqVDU+Y4f2zayS27xq4s+1TN5T4E9Ej8NUGPIrwbCI=, cape, scarf ; Autogen cape for ombekende
 xrb3wvyrikcv3SkFZOt2sBscXm3TbgoWA9wAMk7SyJs=, cape ; Autogen cape for one_letter_shor_
-mBKOzh2UKZj/PnsnVMM+14rLBOybNIaZf6l/qWYLS5g=, scarf ; Autogen cape for wonky2
+mBKOzh2UKZj/PnsnVMM+14rLBOybNIaZf6l/qWYLS5g=, cape, scarf ; Autogen cape for wonky2
 7M9BX/f+mQHqC1MwPH4F+iN1uhIGQFCsI7QzIUaWTkc=, cape ; Autogen cape for CHEKKIT
 5fQHt+uVf66giqn0K6kK+HMoY0WBAo6QhWCFIv1uaCE=, cape ; Autogen cape for Tryn1010
 
@@ -253,5 +253,6 @@ F+ErkxFEVeccmaXfer8Wv9x7cpj47Vz1bRJZ/nBMHXk=, cape, scarf ; Autogen cape for ris
 RQwf2723HC7DoyzRg938K07/F42imd8l3PZYoi3Sik8=, cape, scarf ; Autogen cape for Astralaine
 715B4D7gKg/MPszhh3hrqLvcUyd+7Zcxwezq7iX+ZSk=, cape, scarf ; Autogen cape for DeadCows57
 
+d1VCWpr4hxWnYysGiCLAlx47ytY9Puu1Pi0t+0X5GWA=, scarf ; Autogen cape for atomicno27
 WTe2LUNCYycDYR2Gsr5twgVo/WufMVk/eNCeGP2bjbc=, scarf ; Autogen cape for squeakslugness
 EXSLVIB4C71dO0foL1jN+mlEh287hCNY4Vjlixvrpjg=, cape ; Autogen cape for *angular momentum*

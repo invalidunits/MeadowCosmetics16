@@ -256,3 +256,5 @@ RQwf2723HC7DoyzRg938K07/F42imd8l3PZYoi3Sik8=, cape, scarf ; Autogen cape for Ast
 d1VCWpr4hxWnYysGiCLAlx47ytY9Puu1Pi0t+0X5GWA=, scarf ; Autogen cape for atomicno27
 WTe2LUNCYycDYR2Gsr5twgVo/WufMVk/eNCeGP2bjbc=, scarf ; Autogen cape for squeakslugness
 EXSLVIB4C71dO0foL1jN+mlEh287hCNY4Vjlixvrpjg=, cape ; Autogen cape for *angular momentum*
+
+ceMt3sJkfNa65jUN+uBDSlyrPaY0CT8nLKkFF1ojr0w=, cape, scarf ; Autogen cape for eevay__
